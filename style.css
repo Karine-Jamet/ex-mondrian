@@ -1,4 +1,6 @@
 #blancL{
+  box-sizing: border-box;
+
   float:left;
   width: 25%;
   height: 100%;
@@ -13,6 +15,8 @@
 }
 
 #blancD{
+  box-sizing: border-box;
+
   background-color: white;
   border-color: black;
   height: 50%;
@@ -25,7 +29,7 @@
 }
 
 #rouge{
-
+  box-sizing: border-box;
   background-color: red;
   height: 50%;
 
